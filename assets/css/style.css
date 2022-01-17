@@ -33,7 +33,7 @@ header {
   color: hsl(206, 17%, 28%);
 }
 
-/* Styling for card */
+/* Styling for the card classes */
 .card {
   background-color: hsl(0, 0%, 100%);
   border-radius: 5px;
